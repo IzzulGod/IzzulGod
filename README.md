@@ -46,13 +46,3 @@ Want to collaborate or give feedback? Don’t hesitate to reach out!
 - Exploring transformer architectures  
 
 ---
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzzulGod&show_icons=true&theme=tokyonight&hide_title=true)
-
-</div>
-
-<!--
-**IzzulGod/IzzulGod** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
--->
