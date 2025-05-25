@@ -1,12 +1,6 @@
 <!-- Banner Header -->
 ![Dark Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:232526,100:0f2027&section=header&text=Hi%20👋%20I'm%20IzzulGod&fontColor=fff&fontSize=45&fontAlignY=35)
 
-<div align="center">
-
-### 🧠 *Building intelligent robots with code and curiosity.*
-
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
