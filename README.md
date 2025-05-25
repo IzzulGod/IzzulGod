@@ -1,43 +1,57 @@
+<!-- Banner Header -->
 ![Dark Banner](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:232526,100:0f2027&section=header&text=Hi%20👋%20I'm%20IzzulGod&fontColor=fff&fontSize=45&fontAlignY=35)
+
+<div align="center">
+
+### 🧠 *Building intelligent robots with code and curiosity.*
+
+</div>
+
+---
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **IzzulGod**, a passionate student with a love for exploring AI and robotics. I enjoy tinkering with Large Language Models (LLMs), especially bringing them to life on robots using SBCs (Single Board Computers). When I'm not coding or experimenting, you'll probably find me gaming!
+Hi! I'm **IzzulGod**, a passionate student exploring the intersection of **AI**, **robotics**, and **embedded systems**.  
+I love working with **LLMs**, building experimental prototypes, and deploying intelligent systems on **SBCs** like the Raspberry Pi.
+
+When I’m not immersed in code, you’ll probably find me gaming, learning new frameworks, or tinkering with a robot brain.
 
 ---
 
 ## 🚀 Skills & Tools
 
-- **Languages:** Python, C++, JavaScript
-- **Frameworks:** PyTorch, Transformers
-- **Special Interests:** LLMs, AI Experiments, Robotics
+- **Languages:** Python, C++, JavaScript  
+- **Frameworks:** PyTorch, Hugging Face Transformers, OpenCV  
+- **Tech Focus:**  
+  - LLM fine-tuning (LoRA, QLoRA)  
+  - Voice & vision AI (Whisper, YOLO, MediaPipe)  
+  - Robotics middleware (ROS2, MQTT, gRPC)  
+  - SBC deployment (Raspberry Pi, Orange Pi, etc.)
 
 ---
 
-## 🔥 Favorite Project
+## 🔧 Current Project
 
-**LLM-Powered Robots**  
-Currently, I'm experimenting with integrating LLMs into robots using SBCs. My projects explore how natural language models can control and enhance robotic intelligence.  
-*Curious? Reach out if you want to collaborate or learn more!*
+### **LLM-Powered Modular Robots**
+> I'm designing an offline-capable robot that can **see, listen, understand, and respond** — all powered by compact LLMs running on SBCs.  
+
+Want to collaborate or give feedback? Don’t hesitate to reach out!
 
 ---
 
 ## 🎮 Hobbies
 
-- Gaming (always up for a challenge!)
-- Coding (AI, bots, and fun side projects)
+- Competitive & casual gaming  
+- Coding AI tools and experimental bots  
+- Exploring transformer architectures  
 
 ---
 
-## 📝 Tagline Ideas
+<div align="center">
 
-> "Turning ideas into intelligent robots, one experiment at a time."
->
-> "Coding the future with AI, robotics, and curiosity."
->
-> "Student. Coder. Tinkerer. Gamer. Dreamer."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzzulGod&show_icons=true&theme=tokyonight&hide_title=true)
 
----
+</div>
 
 <!--
 **IzzulGod/IzzulGod** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile!
