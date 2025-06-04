@@ -91,18 +91,18 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 ### 🤖 **Autonomous LLM-Powered Robot Brain**
 
-> ** Vision:** Creating truly intelligent robots that can operate offline with human-like understanding
+> **Vision:** Creating truly intelligent robots that can operate offline with human-like understanding
 
 **🔍 What makes it special:**
-- ** Local LLM Integration** - Runs entirely offline on SBCs
-- ** Multimodal Perception** - Vision, audio, and sensor fusion  
-- ** Natural Communication** - Voice interaction with context awareness
-- ** Real-time Processing** - Optimized for edge computing
-- ** Modular Architecture** - Plug-and-play components
+- **Local LLM Integration** - Runs entirely offline on SBCs
+- **Multimodal Perception** - Vision, audio, and sensor fusion  
+- **Natural Communication** - Voice interaction with context awareness
+- **Real-time Processing** - Optimized for edge computing
+- **Modular Architecture** - Plug-and-play components
 
-** Tech Stack:** Python, PyTorch, ROS2, OpenCV, Whisper, Custom LoRA models
+**Tech Stack:** Python, PyTorch, ROS2, OpenCV, Whisper, Custom LoRA models
 
-** Status:** Currently in development | **🤝 Looking for:** Collaborators and feedback!
+**Status:** Currently in development | **🤝 Looking for:** Collaborators and feedback!
 
 ---
 
@@ -132,11 +132,11 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 ## 🎮 Beyond Code
 
-** Interests:** Competitive Programming • AI Research Papers • Hardware Tinkering • Open Source Contributing
+**Interests:** Competitive Programming • AI Research Papers • Hardware Tinkering • Open Source Contributing
 
-** Learning:** Advanced Robotics • Transformer Architectures • Edge AI Optimization • Quantum Computing Basics  
+**Learning:** Advanced Robotics • Transformer Architectures • Edge AI Optimization • Quantum Computing Basics  
 
-** Gaming:** Strategy Games • FPS & RPG • Indie Games • Mobile Gaming
+**Gaming:** Strategy Games • FPS & RPG • Indie Games • Mobile Gaming
 
 ---
 
