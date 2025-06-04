@@ -102,7 +102,7 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 **Tech Stack:** Python, PyTorch, ROS2, OpenCV, Whisper, Custom LoRA models
 
-**Status:** Currently in development | **🤝 Looking for:** Collaborators and feedback!
+**Status:** Currently in development | **Looking for:** Collaborators and feedback!
 
 ---
 
