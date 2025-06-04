@@ -1,4 +1,4 @@
- # Hey there! I'm Izzul Fahmi
+ # Hey there! I'm Izzul Fahmi 👋
 
 ![AI Architect](https://img.shields.io/badge/🧠_AI_Architect-FF6B35?style=for-the-badge&labelColor=1a1a1a) 
 ![Robotics Visionary](https://img.shields.io/badge/🤖_Robotics_Visionary-F7931E?style=for-the-badge&labelColor=1a1a1a) 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Quick Info
+## About Me
 
 **Name:** Izzul Fahmi  
 **Role:** AI & Robotics Enthusiast  
