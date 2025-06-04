@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <h1>
@@ -13,7 +12,7 @@
 > *Building intelligent systems that bridge silicon dreams with real-world impact*
 
 </div>
-```
+
 ---
 
 ###  Who Am I?
