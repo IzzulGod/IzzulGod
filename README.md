@@ -26,7 +26,7 @@ When I’m not immersed in code, you’ll probably find me gaming, learning new 
 
 ## 🔧 Current Project
 
-### **LLM-Powered Modular Robots**
+### 🤖 **LLM-Powered Modular Robots**
 > I'm designing an offline-capable robot that can **see, listen, understand, and respond** — all powered by compact LLMs running on SBCs.  
 
 Want to collaborate or give feedback? Don’t hesitate to reach out!
