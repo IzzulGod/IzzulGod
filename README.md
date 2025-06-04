@@ -46,10 +46,3 @@ Want to collaborate or give feedback? Don’t hesitate to reach out!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzzulGod&layout=compact&langs_count=10&hide=html,css&theme=tokyonight)
 
 ![IzzulGod's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzulGod&show_icons=true&theme=tokyonight&hide_title=true)
-
----
-
-## 🧭 Let's Connect!
-
-- 🌐 [GitHub](https://github.com/IzzulGod)  
-- 📫 Reach out on Discord, Twitter, or email (you can customize this!)
