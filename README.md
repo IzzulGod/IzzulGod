@@ -1,7 +1,22 @@
 #
-👋 Hi, I'm Izzul — AI Tinkerer & Robotics Dreamer
 
-> I build brains for robots, optimize intelligence for the edge, and dream of offline autonomy.
+<div align="center">
+
+# 👋 Hi, I'm Izzul — AI Tinkerer & Robotics Dreamer
+
+> *I build brains for robots, optimize intelligence for the edge, and dream of offline autonomy.*
+
+<br/>
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-%F0%9F%A7%A0-blue?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-%F0%9F%9A%97-red?style=for-the-badge)
+![Edge Computing](https://img.shields.io/badge/Edge%20AI-%F0%9F%9A%80-yellow?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Local%20LLM-%F0%9F%93%8A-success?style=for-the-badge)
+![ROS2](https://img.shields.io/badge/ROS2-Framework-critical?style=for-the-badge)
+
+</div>
+
+---
 
 ---
 
