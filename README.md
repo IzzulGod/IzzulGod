@@ -1,16 +1,10 @@
- # ![Hi](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif) Hey there! I'm Izzul Fahmi
+ # Hey there! I'm Izzul Fahmi
 
 ![AI Architect](https://img.shields.io/badge/🧠_AI_Architect-FF6B35?style=for-the-badge&labelColor=1a1a1a) 
 ![Robotics Visionary](https://img.shields.io/badge/🤖_Robotics_Visionary-F7931E?style=for-the-badge&labelColor=1a1a1a) 
 ![Edge Computing](https://img.shields.io/badge/⚡_Edge_Computing_Enthusiast-FFD23F?style=for-the-badge&labelColor=1a1a1a)
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35)
-
----
-
-## 💫 About Me
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7931E&center=true&width=600&lines=Building+intelligent+systems+that+bridge...;silicon+dreams+with+real-world+impact+🚀;Where+AI+meets+hardware+innovation+⚡;Creating+the+future%2C+one+robot+at+a+time+🤖)
 
 ---
 
