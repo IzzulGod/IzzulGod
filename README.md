@@ -1,5 +1,3 @@
-#
-
 <div align="center">
 
 # 👋 Hi, I'm Izzul — AI Tinkerer & Robotics Dreamer
@@ -15,8 +13,6 @@
 ![ROS2](https://img.shields.io/badge/ROS2-Framework-critical?style=for-the-badge)
 
 </div>
-
----
 
 ---
 
