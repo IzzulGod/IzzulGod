@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=250&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45)
 
-## Hey there! I'm Izzul Fahmi 👋
+## Hey there! I'm IzzulGod 👋
 
 ### About Me
 
-**Name:** Izzul Fahmi  
+**Name:** Muhammad Izzul Fahmi Mustofa  
 **Role:** AI & Robotics Enthusiast  
 **Focus:** AI/ML • Robotics • Embedded Systems  
 **Status:** Student & Innovator  
