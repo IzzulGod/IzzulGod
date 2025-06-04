@@ -1,24 +1,15 @@
 # Hi 👋 I'm **IzzulGod**
 
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12&section=header&text=IzzulGod&fontColor=fff&fontSize=40&fontAlignY=35&desc=AI%20Enthusiast%20%7C%20Robotics%20Developer&descAlign=50&descAlignY=55&animation=twinkling)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Building+the+future+with+AI+🤖;Passionate+about+LLMs+%26+Robotics+⚡;Always+learning%2C+always+coding+💻)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ## 🌟 About Me
 
 ### 👨‍💻 Who Am I?
-name: "IzzulGod"
-role: "AI & Robotics Enthusiast"  
-location: "Indonesia 🇮🇩"
-focus: ["AI/ML", "Robotics", "Embedded Systems"]
-current_status: "Student & Innovator"
-fun_fact: "I dream in Python and wake up debugging C++"
+- name: "IzzulGod"
+- role: "AI & Robotics Enthusiast"  
+- focus: ["AI/ML", "Robotics", "Embedded Systems"]
+- current_status: "Student & Innovator"
+- fun_fact: "I dream in Python and wake up debugging C++"
 
 ### 🎯 My Mission
 Building intelligent systems that bridge the gap between **artificial intelligence** and **real-world applications**. I'm passionate about creating robots that can truly understand and interact with their environment using cutting-edge LLM technology.
