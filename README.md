@@ -7,7 +7,7 @@
 ### 👨‍💻 Who Am I?
 - name: "IzzulGod"
 - role: "AI & Robotics Enthusiast"  
-- focus: ["AI/ML", "Robotics", "Embedded Systems"]
+- focus: "AI/ML", "Robotics", "Embedded Systems"
 - current_status: "Student & Innovator"
 - fun_fact: "I dream in Python and wake up debugging C++"
 
