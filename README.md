@@ -1,3 +1,13 @@
+# 
+
+<div align="center">
+
+![IzzulGod Coding Doodle Banner](https://raw.githubusercontent.com/IzzulGod/IzzulGod/main/assets/coding-banner.svg)
+
+</div>
+
+---
+
 ###  Who Am I?
 - name: Izzul Fahmi
 - role: AI & Robotics Enthusiast 
