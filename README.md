@@ -13,14 +13,12 @@
 ## 🌟 About Me
 
 ### 👨‍💻 Who Am I?
-```yaml
 name: "IzzulGod"
 role: "AI & Robotics Enthusiast"  
 location: "Indonesia 🇮🇩"
 focus: ["AI/ML", "Robotics", "Embedded Systems"]
 current_status: "Student & Innovator"
 fun_fact: "I dream in Python and wake up debugging C++"
-```
 
 ### 🎯 My Mission
 Building intelligent systems that bridge the gap between **artificial intelligence** and **real-world applications**. I'm passionate about creating robots that can truly understand and interact with their environment using cutting-edge LLM technology.
@@ -41,7 +39,7 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 </div>
 
-### 🤖 AI & ML Tools
+###  AI & ML Tools
 <div align="center">
 
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
@@ -59,7 +57,7 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 </div>
 
-### 🧠 Specialized Skills
+###  Specialized Skills
 
 **AI/ML Expertise:**
 - LLM Fine-tuning (LoRA/QLoRA)
@@ -81,7 +79,7 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
 <div align="center">
 
@@ -93,18 +91,18 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 ### 🤖 **Autonomous LLM-Powered Robot Brain**
 
-> **🎯 Vision:** Creating truly intelligent robots that can operate offline with human-like understanding
+> ** Vision:** Creating truly intelligent robots that can operate offline with human-like understanding
 
 **🔍 What makes it special:**
-- **🧠 Local LLM Integration** - Runs entirely offline on SBCs
-- **👁️ Multimodal Perception** - Vision, audio, and sensor fusion  
-- **🗣️ Natural Communication** - Voice interaction with context awareness
-- **⚡ Real-time Processing** - Optimized for edge computing
-- **🔧 Modular Architecture** - Plug-and-play components
+- ** Local LLM Integration** - Runs entirely offline on SBCs
+- ** Multimodal Perception** - Vision, audio, and sensor fusion  
+- ** Natural Communication** - Voice interaction with context awareness
+- ** Real-time Processing** - Optimized for edge computing
+- ** Modular Architecture** - Plug-and-play components
 
-**🛠️ Tech Stack:** Python, PyTorch, ROS2, OpenCV, Whisper, Custom LoRA models
+** Tech Stack:** Python, PyTorch, ROS2, OpenCV, Whisper, Custom LoRA models
 
-**🚀 Status:** Currently in development | **🤝 Looking for:** Collaborators and feedback!
+** Status:** Currently in development | **🤝 Looking for:** Collaborators and feedback!
 
 ---
 
@@ -134,24 +132,13 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 ## 🎮 Beyond Code
 
-**🎯 Interests:** Competitive Programming • AI Research Papers • Hardware Tinkering • Open Source Contributing
+** Interests:** Competitive Programming • AI Research Papers • Hardware Tinkering • Open Source Contributing
 
-**🌱 Learning:** Advanced Robotics • Transformer Architectures • Edge AI Optimization • Quantum Computing Basics  
+** Learning:** Advanced Robotics • Transformer Architectures • Edge AI Optimization • Quantum Computing Basics  
 
-**🎮 Gaming:** Strategy Games • FPS & RPG • Indie Games • Mobile Gaming
+** Gaming:** Strategy Games • FPS & RPG • Indie Games • Mobile Gaming
 
 ---
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
 
 ### 💬 Open to discuss:
 **AI/ML Projects** • **Robotics Collaboration** • **Tech Innovation** • **Gaming** • **Learning Together**
