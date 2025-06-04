@@ -2,7 +2,10 @@
 
 <div align="center">
 
-![IzzulGod Coding Doodle Banner](https://raw.githubusercontent.com/IzzulGod/IzzulGod/main/assets/coding-banner.svg)
+<img src="https://i.imgur.com/your_banner_image.png" alt="AI Robotics Banner" style="width:100%; border-radius: 10px;"/>
+
+<h1>👋 Hi there! Welcome to My World of AI & Robotics</h1>
+<p>Exploring the frontier where intelligent machines meet the real world.</p>
 
 </div>
 
@@ -12,8 +15,8 @@
 - name: Izzul Fahmi
 - role: AI & Robotics Enthusiast 
 - focus: "AI/ML", "Robotics", "Embedded Systems"
-- current_status: Student & Innovator
-- fun_fact: I dream in Python and wake up debugging C++
+- current status: Student & Innovator
+- fun fact: I dream in Python and wake up debugging C++
 
 ### 🚀 My Mission
 Building intelligent systems that bridge the gap between **artificial intelligence** and **real-world applications**. I'm passionate about creating robots that can truly understand and interact with their environment using cutting-edge LLM technology.
