@@ -1,8 +1,4 @@
-## Hey there! I'm Izzul Fahmi 👋
-
-![AI Architect](https://img.shields.io/badge/🧠_AI_Architect-FF6B35?style=for-the-badge&labelColor=1a1a1a) 
-![Robotics Visionary](https://img.shields.io/badge/🤖_Robotics_Visionary-F7931E?style=for-the-badge&labelColor=1a1a1a) 
-![Edge Computing](https://img.shields.io/badge/⚡_Edge_Computing_Enthusiast-FFD23F?style=for-the-badge&labelColor=1a1a1a)
+### Hey there! I'm Izzul Fahmi 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
