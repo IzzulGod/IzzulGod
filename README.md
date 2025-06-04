@@ -1,26 +1,26 @@
-# Hi 👋 I'm **IzzulGod**
+# Hi! I'm **IzzulGod**
 
 ---
 
 ## 🌟 About Me
 
-### 👨‍💻 Who Am I?
+###  Who Am I?
 - name: "IzzulGod"
 - role: "AI & Robotics Enthusiast"  
 - focus: "AI/ML", "Robotics", "Embedded Systems"
 - current_status: "Student & Innovator"
 - fun_fact: "I dream in Python and wake up debugging C++"
 
-### 🎯 My Mission
+###  My Mission
 Building intelligent systems that bridge the gap between **artificial intelligence** and **real-world applications**. I'm passionate about creating robots that can truly understand and interact with their environment using cutting-edge LLM technology.
 
-**🔥 Currently obsessed with:** Making AI accessible on resource-constrained devices!
+**Currently obsessed with:** Making AI accessible on resource-constrained devices!
 
 ---
 
 ## 🛠️ Tech Arsenal
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 </div>
 
-### 🔧 Hardware & Systems
+###  Hardware & Systems
 <div align="center">
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
