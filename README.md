@@ -2,9 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
----
-
-## About Me
+**About Me**
 
 **Name:** Izzul Fahmi  
 **Role:** AI & Robotics Enthusiast  
