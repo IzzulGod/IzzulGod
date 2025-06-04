@@ -2,14 +2,12 @@
 
 ---
 
-## 🌟 About Me
-
 ###  Who Am I?
-- name: "IzzulGod"
-- role: "AI & Robotics Enthusiast"  
+- name: Izzul Fahmi
+- role: AI & Robotics Enthusiast 
 - focus: "AI/ML", "Robotics", "Embedded Systems"
-- current_status: "Student & Innovator"
-- fun_fact: "I dream in Python and wake up debugging C++"
+- current_status: Student & Innovator
+- fun_fact: I dream in Python and wake up debugging C++
 
 ###  My Mission
 Building intelligent systems that bridge the gap between **artificial intelligence** and **real-world applications**. I'm passionate about creating robots that can truly understand and interact with their environment using cutting-edge LLM technology.
