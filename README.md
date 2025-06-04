@@ -111,23 +111,35 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 ## 🎮 Beyond Code
 
-**Interests:** Competitive Programming • AI Research Papers • Hardware Tinkering • Open Source Contributing
+**Interests:** 
+• Competitive Programming 
+• AI Research Papers 
+• Hardware Tinkering 
+• Open Source Contributing
 
-**Learning:** Advanced Robotics • Transformer Architectures • Edge AI Optimization • Quantum Computing Basics  
+**Learning:** 
+•Advanced Robotics 
+• Transformer Architectures 
+• Edge AI Optimization 
+• Quantum Computing Basics  
 
-**Gaming:** Strategy Games • FPS & RPG • Indie Games • Mobile Gaming
+**Gaming:** 
+• Strategy Games 
+• FPS & RPG 
+• Indie Games 
+• Mobile Gaming
 
 ---
 
 ### 💬 Open to discuss:
-**AI/ML Projects** • **Robotics Collaboration** • **Tech Innovation** • **Gaming** • **Learning Together**
+• **AI/ML Projects** 
+• **Robotics Collaboration** 
+• **Tech Innovation** 
+• **Gaming** 
+• **Learning Together**
 
 ---
 
 <div align="center">
 
 *"The future belongs to those who combine artificial intelligence with human creativity"* ✨
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer)
-
-</div>
