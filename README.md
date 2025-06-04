@@ -1,13 +1,17 @@
 # 
 
 <div align="center">
+<h1 align="center">🧠 Izzul Fahmi</h1>
+<h3 align="center">Bridging AI with the Real World through Robotics & Embedded Systems</h3>
 
-<img src="https://i.imgur.com/your_banner_image.png" alt="AI Robotics Banner" style="width:100%; border-radius: 10px;"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Offline+LLM+Builder;Edge+AI+Tinkerer;OpenCV+Explorer;ROS2+Adventurer&center=true&width=600&height=45">
+</p>
 
-<h1>👋 Hi there! Welcome to My World of AI & Robotics</h1>
-<p>Exploring the frontier where intelligent machines meet the real world.</p>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-Enabled-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI%20On%20SBC%20Mission-In%20Progress-green?style=for-the-badge">
+</p>
 
 ---
 
