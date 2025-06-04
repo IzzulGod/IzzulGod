@@ -68,16 +68,6 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 
 ---
 
-##  Featured Project
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IzzulGod&theme=tokyonight&hide_border=true&border_radius=10)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=IzzulGod&theme=tokyonight&no-frame=true&row=1&column=3)
-
-</div>
-
 ### 🤖 **Autonomous LLM-Powered Robot Brain**
 
 > **Vision:** Creating truly intelligent robots that can operate offline with human-like understanding
