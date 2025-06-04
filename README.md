@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=250&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=250&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40)
 
 ## Hey there! I'm IzzulGod 👋
 
