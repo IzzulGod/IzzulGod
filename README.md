@@ -26,7 +26,7 @@
   <p style="margin: 8px 0;"><strong>Name:</strong> Izzul Fahmi</p>
   <p style="margin: 8px 0;"><strong>Role:</strong> AI & Robotics Enthusiast</p>
   <p style="margin: 8px 0;"><strong>Focus:</strong> "AI/ML", "Robotics", "Embedded Systems"</p>
-  <p style="margin: 8px 0;"><strong>Status:</strong> Student & Innovator 🎓</p>
+  <p style="margin: 8px 0;"><strong>Status:</strong> Student & Innovator</p>
   <p style="margin: 8px 0;"><strong>Fun Fact:</strong> I dream in Python 🐍 and wake up debugging C++ 💻</p>
 </div>
 
