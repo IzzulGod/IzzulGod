@@ -1,19 +1,19 @@
+```markdown
 <div align="center">
 
-# 👋 Hi, I'm Izzul — AI Tinkerer & Robotics Dreamer
+<h1>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" />
+  Hey there! I'm <span style="background: linear-gradient(45deg, #FF6B35, #F7931E, #FFD23F); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Izzul Fahmi</span>
+</h1>
 
-> *I build brains for robots, optimize intelligence for the edge, and dream of offline autonomy.*
+### 🧠 **AI Architect** | 🤖 **Robotics Visionary** | ⚡ **Edge Computing Enthusiast**
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=30&fontColor=ffffff&animation=fadeIn" />
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-%F0%9F%A7%A0-blue?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-%F0%9F%9A%97-red?style=for-the-badge)
-![Edge Computing](https://img.shields.io/badge/Edge%20AI-%F0%9F%9A%80-yellow?style=for-the-badge)
-![LLM](https://img.shields.io/badge/Local%20LLM-%F0%9F%93%8A-success?style=for-the-badge)
-![ROS2](https://img.shields.io/badge/ROS2-Framework-critical?style=for-the-badge)
+> *Building intelligent systems that bridge silicon dreams with real-world impact*
 
 </div>
-
+```
 ---
 
 ###  Who Am I?
