@@ -1,4 +1,3 @@
-<!-- Main Header with Animated Greeting -->
 <h1>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px" />
   <span style="font-size: 2.5em;">Hey there!</span>
@@ -8,29 +7,25 @@
   </span>
 </h1>
 
-<!-- Enhanced Role Tags with Icons -->
 <div style="margin: 20px 0;">
   <img src="https://img.shields.io/badge/🧠_AI_Architect-FF6B35?style=for-the-badge&labelColor=1a1a1a" alt="AI Architect"/>
   <img src="https://img.shields.io/badge/🤖_Robotics_Visionary-F7931E?style=for-the-badge&labelColor=1a1a1a" alt="Robotics Visionary"/>
   <img src="https://img.shields.io/badge/⚡_Edge_Computing_Enthusiast-FFD23F?style=for-the-badge&labelColor=1a1a1a" alt="Edge Computing"/>
 </div>
 
-<!-- Dynamic Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-<!-- Inspirational Quote with Typing Effect -->
 <div style="margin: 30px 0; padding: 20px; background: linear-gradient(45deg, rgba(255,107,53,0.1), rgba(247,147,30,0.1), rgba(255,210,63,0.1)); border-radius: 15px; border: 2px solid transparent; background-clip: padding-box;">
   <h3 style="margin: 0; font-family: 'Courier New', monospace;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F7931E&center=true&width=600&lines=Building+intelligent+systems+that+bridge...;silicon+dreams+with+real-world+impact+🚀;Where+AI+meets+hardware+innovation+⚡;Creating+the+future%2C+one+robot+at+a+time+🤖" alt="Typing Animation" />
   </h3>
 </div>
 
-<!-- Personal Info Card -->
 <div style="display: inline-block; text-align: left; background: linear-gradient(135deg, rgba(102,126,234,0.1) 0%, rgba(118,75,162,0.1) 100%); padding: 25px; border-radius: 20px; margin: 20px 0; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
   <h3 style="margin-top: 0; color: #667eea;">🎯 Quick Info</h3>
   <p style="margin: 8px 0;"><strong>Name:</strong> Izzul Fahmi</p>
   <p style="margin: 8px 0;"><strong>Role:</strong> AI & Robotics Enthusiast</p>
-  <p style="margin: 8px 0;"><strong>Focus:</strong> "AI/ML" • "Robotics" • "Embedded Systems"</p>
+  <p style="margin: 8px 0;"><strong>Focus:</strong> "AI/ML", "Robotics", "Embedded Systems"</p>
   <p style="margin: 8px 0;"><strong>Status:</strong> Student & Innovator 🎓</p>
   <p style="margin: 8px 0;"><strong>Fun Fact:</strong> I dream in Python 🐍 and wake up debugging C++ 💻</p>
 </div>
