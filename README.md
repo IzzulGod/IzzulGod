@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=250&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGrad&customColorList=6,11,20&height=250&section=header&text=Welcome%20to%20my%20Digital%20Workshop&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
 ## Hey there! I'm IzzulGod 👋
 
@@ -6,7 +6,6 @@
 
 **Name:** Muhammad Izzul Fahmi Mustofa  
 **Role:** AI & Robotics Enthusiast  
-**Focus:** AI/ML • Robotics • Embedded Systems  
 **Status:** Student & Innovator  
 **Fun Fact:** I dream in Python 🐍 and wake up debugging C++ 💻
 
@@ -140,11 +139,11 @@ Building intelligent systems that bridge the gap between **artificial intelligen
 ## 💬 Let's Connect!
 
 ### Open to discuss:
-- **AI/ML Projects** 
-- **Robotics Collaboration** 
-- **Tech Innovation** 
-- **Gaming** 
-- **Learning Together**
+- AI/ML Projects
+- Robotics Collaboration
+- Tech Innovation
+- Gaming
+- Learning Together
 
 ---
 
