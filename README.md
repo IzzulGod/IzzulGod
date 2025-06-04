@@ -45,26 +45,6 @@
     I'm passionate about creating robots that can truly understand and interact with their environment using cutting-edge LLM technology.
   </p>
   <div style="margin-top: 15px; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 10px;">
-    <strong>🔥 Currently obsessed with:</strong> Making AI accessible on resource-constrained devices!
-  </div>
-</div>
-
-<!-- Activity Indicators -->
-<div style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Status-🔴_Currently_Active-success?style=for-the-badge&logo=github&logoColor=white" alt="Active Status"/>
-  <img src="https://img.shields.io/badge/Open_to-💬_Collaborate-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate"/>
-  <img src="https://img.shields.io/badge/Learning-🧠_Always-orange?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always Learning"/>
-</div>
-
-</div>
-
-<style>
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
 
 ---
 
